@@ -1,0 +1,20 @@
+References used:
+https://www.chipotle.com/
+https://choolaah.com/
+
+This website is for an Indian restaurant that operates like a Chipotle. I grew up eating 
+healthy, delectable, mouth watering, spicy, full of flavor Indian food and 
+I think if Indian food were offered in a build-your-own model (as opposed to sit-in restaurants),
+many people would make this restaurant a common part of their lives. This website will communicate
+that Indian food is much more similar to food in other cultures than previously thought and 
+is much more than the standard perception of Indian food as naan and chicken tikka masala; 
+it is fresh, healthy, warm, comforting, and incredibly diverse. The website should also communicate
+the connvenience of getting this high-quality meal with the build-your-own model. The website should 
+have sections for the menu, ordering, health, about us, and contact page.
+
+Choolah is an Indian Chipotle that already exists and so my 
+goal is to build a website inspired by theirs but simpler. However, although 
+I think the Choolah website is beatifully designed with smooth animations, high quality 
+pictures, and simplistic layout/grouping, I feel the website is a little cluttered. I am seeking
+to balance elements from the super-simplistic Chipotle website with those from the
+Choolah website. I will priortize the build-your-own menu section.
