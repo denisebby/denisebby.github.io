@@ -18,3 +18,11 @@ I think the Choolah website is beatifully designed with smooth animations, high 
 pictures, and simplistic layout/grouping, I feel the website is a little cluttered. I am seeking
 to balance elements from the super-simplistic Chipotle website with those from the
 Choolah website. I will priortize the build-your-own menu section.
+
+Color Scheme Used:
+The main colors I used were rgb(197, 15, 15) (a form of bright red) and white. Red is a 
+common color used by restaurants since red invokes hunger, appetite, and attention. This is
+why I made the majority of open space red. The simple red and white color scheme causes contrast
+that draws readers' attention to the white text (menu items, health standards, etc.). The color
+scheme is very simple as to comfort and not overwhelm the user and let the red have as much effect
+as possible. 
